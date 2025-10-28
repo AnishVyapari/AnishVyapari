@@ -1,165 +1,157 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anish%20Vyapari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</div>
 
-<img src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/main/assets/rait-logo.png" alt="RAIT Nerul" width="120" />
+<h3 align="center">🤖 Robotics & AI Systems Developer | 🎓 B.Tech CSE (AI & ML) @ RAIT Nerul</h3>
+<p align="center">📍 Navi Mumbai, India 🇮🇳</p>
 
-# Anish Vyapari
-
-**Robotics & AI Systems Developer**
-
-<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-654fa3?style=flat-square" alt="Education" />
-<img src="https://img.shields.io/badge/Institution-RAIT%20Nerul-654fa3?style=flat-square" alt="Institution" />
-<img src="https://img.shields.io/badge/Focus-Robotics%20%7C%20Drones%20%7C%20Computer%20Vision-654fa3?style=flat-square" alt="Focus Areas" />
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-vyapari-8a8089258/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anish.vyapari/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.vyapari@rait.ac.in)
 
 </div>
 
 ---
 
-## Profile Overview
+## 👨‍💻 About Me
 
-B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Ramrao Adik Institute of Technology (RAIT), Nerul. Focused on developing intelligent robotic systems, drone automation, and computer vision applications.
+> **Passionate about building intelligent systems that bridge the gap between software and hardware**
 
-**Birthday:** May 23, 2006 | **Age:** 19
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at Ramrao Adik Institute of Technology. My work focuses on:
 
----
-
-## Technical Expertise
-
-**Programming & Development**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI & Machine Learning**
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Robotics & Embedded Systems**
-- ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+- 🚁 **Autonomous Drone Systems** - Building intelligent UAVs for surveillance and automation
+- 🤖 **Robotics & Computer Vision** - Creating vision-guided robotic systems
+- 🧠 **AI/ML Applications** - Implementing deep learning solutions for real-world problems
+- 🔧 **Hardware Integration** - Bridging software intelligence with physical systems
 
 ---
 
-## Featured Projects
-
-### LectureVault | Automated Lecture Recording System
-
-**Description:** Discord-based automation system for recording, compressing, and archiving lectures efficiently.
-
-**Key Features:**
-- 6-hour continuous screen and audio capture capability
-- 4x speed video compression algorithm
-- Output files optimized to under 8MB for easy storage and sharing
-- Seamless Discord integration for automated delivery
-
-**Technology Stack:**
-- **Languages:** Python
-- **Libraries:** OpenCV, Discord.py, FFmpeg
-- **Status:** Deployed and Operational
-
-**Repository:** [github.com/AnishVyapari/LectureVault](https://github.com/AnishVyapari/LectureVault)
-
----
-
-### Upcoming Robotics Project
-
-**Status:** In Development
-
-Currently planning and prototyping a new robotics project that combines autonomous navigation with computer vision. More details will be available upon initial deployment.
-
----
-
-## Assistant Persona Logic
-
-This GitHub profile represents both my personal work and serves as an interface to my project assistant persona:
-
-```yaml
-Creator:
-  name: "Anish Vyapari"
-  role: "B.Tech CSE (AI & ML) Student"
-  institution: "Ramrao Adik Institute of Technology (RAIT), Nerul"
-  age: 19
-  date_of_birth: "May 23, 2006"
-  specializations:
-    - Robotics Systems
-    - Drone Technology
-    - AI/ML Engineering
-    - Computer Vision
-
-Assistant_Behavior:
-  purpose: "Project collaboration and technical assistance"
-  expertise:
-    - Robotics development and debugging
-    - AI/ML model implementation
-    - Drone systems programming
-    - Computer vision algorithm optimization
-  communication_style: "Professional, technical, solution-oriented"
-  availability: "Active for project inquiries and collaboration"
-
-Birthday_Protocol:
-  trigger_date: "May 23"
-  response: |
-    Wishing you another great year building amazing AI and robotics projects!
-    Looking forward to the innovative systems you'll create this year.
-```
-
----
-
-## Project Development Guide
-
-### Standard Project Structure
-
-```plaintext
-project-name/
-├── src/              # Source code
-├── tests/            # Unit and integration tests
-├── docs/             # Documentation
-├── config/           # Configuration files
-├── data/             # Datasets and resources
-├── models/           # Trained ML models
-└── README.md         # Project overview
-```
-
-### Development Workflow
-
-1. **Planning:** Define objectives, requirements, and success metrics
-2. **Prototyping:** Build minimal viable prototype for concept validation
-3. **Development:** Implement full feature set with modular architecture
-4. **Testing:** Comprehensive unit tests and system integration tests
-5. **Documentation:** Clear technical documentation and user guides
-6. **Deployment:** Production release with monitoring and maintenance plan
-
----
-
-## GitHub Activity
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=transparent&hide_border=true&title_color=654fa3&icon_color=654fa3&text_color=333333" alt="GitHub Stats" />
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=transparent&hide_border=true&stroke=654fa3&ring=654fa3&fire=654fa3&currStreakLabel=333333" alt="GitHub Streak" />
+### AI/ML & Computer Vision
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Robotics & Embedded Systems
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### Web & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## Contact & Collaboration
+## 🚀 Featured Projects
+
+### 🚁 Autonomous Surveillance Drone
+> **Advanced UAV system with real-time object detection and autonomous navigation**
+
+- 🎯 Integrated YOLOv8 for real-time threat detection
+- 🗺️ GPS-based waypoint navigation system
+- 📡 Long-range FPV telemetry (up to 2km)
+- 🔋 Smart battery management with RTH capabilities
+
+**Tech Stack:** Python, OpenCV, YOLOv8, Pixhawk, MAVLink, ROS
+
+---
+
+### 🤖 Vision-Guided Robotic Arm
+> **Industrial automation system with computer vision for pick-and-place operations**
+
+- 👁️ Real-time object detection and classification
+- 🎯 Precise 6-DOF inverse kinematics control
+- 📦 Automated sorting based on color/shape recognition
+- 🔄 Integration with conveyor belt systems
+
+**Tech Stack:** Python, OpenCV, Arduino, Servo Control, TensorFlow
+
+---
+
+### 🌾 Smart Agriculture Monitoring System
+> **IoT-based crop health monitoring with drone surveillance**
+
+- 🛰️ Aerial imagery capture and analysis
+- 🌡️ Real-time environmental sensor monitoring
+- 📊 ML-based crop disease detection
+- 📱 Mobile dashboard for farmers
+
+**Tech Stack:** Python, Flask, React, OpenCV, IoT Sensors, DroneKit
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 **Winner** - College Tech Fest Robotics Competition 2024
+- 🎓 **CGPA: 9.2+** - Consistent academic excellence
+- 🚁 **Built 5+ Drone Systems** - From FPV racing to autonomous surveillance
+- 🤖 **10+ Robotics Projects** - Spanning automation, vision, and AI
+- 💡 **Active Contributor** - Open-source robotics and AI projects
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnishVyapari)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishvyapari)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anish.vyapari@example.com)
+**Open to collaborations in Robotics, Drones, Computer Vision, and AI!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-vyapari-8a8089258/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:anish.vyapari@rait.ac.in)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/anish.vyapari/)
 
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
 
-**Building intelligent systems with precision and purpose**
-
-*Open to collaboration on robotics, AI, and drone technology projects*
-
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AnishVyapari&color=blueviolet&style=flat-square&label=Profile+Views)
+  
 </div>
