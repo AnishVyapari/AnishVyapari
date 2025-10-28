@@ -1,182 +1,206 @@
-<!-- ===================== CYBERPUNK NEON TERMINAL PROFILE ===================== -->
+<!-- ===================== CYBERPUNK AI ROBOTICS ASSISTANT ===================== -->
 <div align="center">
 
-<!-- GLITCH LOGO / ASCII HEADER -->
-
-<pre style="font-family: 'Fira Code', monospace; color:#a259ff; background:transparent;">
-███╗   ██╗██╗██╗  ██╗██╗  ██╗    ██╗   ██╗██╗   ██╗ █████╗ ██████╗  █████╗ ██████╗ ██╗
-████╗  ██║██║██║ ██╔╝██║ ██╔╝    ██║   ██║██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║
-██╔██╗ ██║██║█████╔╝ █████╔╝     ██║   ██║██║   ██║███████║██████╔╝███████║██████╔╝██║
-██║╚██╗██║██║██╔═██╗ ██╔═██╗     ██║   ██║██║   ██║██╔══██║██╔══██╗██╔══██║██╔══██╗██║
-██║ ╚████║██║██║  ██╗██║  ██╗    ╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║
-╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+<!-- GLITCH ASCII HEADER -->
+<pre style="font-family: 'Fira Code', monospace; color: #00ff88; background: linear-gradient(45deg, #0a0a0a, #1a0f2e); padding: 20px; border-radius: 10px; text-shadow: 0 0 10px #00ff88;">
+██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗███████╗     █████╗ ██╗    
+██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝██╔════╝    ██╔══██╗██║    
+██████╔╝██║   ██║██████╔╝██║   ██║   ██║   ██║██║     ███████╗    ███████║██║    
+██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ██║██║     ╚════██║    ██╔══██║██║    
+██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   ██║╚██████╗███████║    ██║  ██║██║    
+╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝ ╚═════╝╚══════╝    ╚═╝  ╚═╝╚═╝    
+                                                                                  
+ █████╗ ███████╗███████╗██╗███████╗████████╗ █████╗ ███╗   ██╗████████╗        
+██╔══██╗██╔════╝██╔════╝██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚══██╔══╝        
+███████║███████╗███████╗██║███████╗   ██║   ███████║██╔██╗ ██║   ██║           
+██╔══██║╚════██║╚════██║██║╚════██║   ██║   ██╔══██║██║╚██╗██║   ██║           
+██║  ██║███████║███████║██║███████║   ██║   ██║  ██║██║ ╚████║   ██║           
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝           
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0b10,100:1a0f2e&text=ANISH%20VYAPARI&fontAlign=50&fontColor=ffffff&fontSize=48&animation=twinkling&desc=// cyberpunk%20developer%20%7C%20python%20ops%20%7C%20discord%20systems&descAlign=60" alt="neon banner" />
+<!-- CYBERPUNK BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,50:1a0f2e,100:0a0a0a&text=ANISH%20VYAPARI&fontAlign=50&fontColor=00ff88&fontSize=42&animation=twinkling&desc=// ROBOTICS %26 AI PROJECT ASSISTANT //&descAlign=62&descAlignY=75" alt="cyberpunk banner" />
 
-<!-- CYBER TERMINAL TAGLINE -->
-
+<!-- STATUS BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/BOOT-sequence:OK-1a0f2e?style=for-the-badge&labelColor=0b0b10&color=a259ff" />
-  <img src="https://img.shields.io/badge/IDENT-an1sh_v-0b0b10?style=for-the-badge&labelColor=1a0f2e&color=7f39fb" />
-  <img src="https://img.shields.io/badge/STACK-python~discord.py~pytorch~opencv-0b0b10?style=for-the-badge&labelColor=1a0f2e&color=9b59ff" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0a0a0a&color=00ff88&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjgiIGZpbGw9IiMwMGZmODgiLz4KPC9zdmc+" />
+  <img src="https://img.shields.io/badge/MODE-HACKER-1a0f2e?style=for-the-badge&labelColor=0a0a0a&color=a259ff" />
+  <img src="https://img.shields.io/badge/FOCUS-ROBOTICS+AI-0a0a0a?style=for-the-badge&labelColor=1a0f2e&color=00ff88" />
 </p>
 
-<!-- TYPING GLITCH LINE -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A259FF&center=true&vCenter=true&width=800&lines=%3E%3E%3E+INIT+HACKER+MODE;building+discord+automation+%26+custom+LLMs;railway+%7C+github+actions+%7C+linux;cyberpunk+ux+%2F%2F+terminal+first+design" alt="typing" /></a>
+<!-- TERMINAL TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=%3E%3E%3E+INITIALIZING+AI+ASSISTANT+PROTOCOL;SPECIALIZING+IN+ROBOTICS+%2B+DRONE+SYSTEMS;B.TECH+CSE+(AI+%26+ML)+%7C+RAIT+NERUL;BUILDING+THE+FUTURE+WITH+CODE+%26+CIRCUITS" alt="typing" />
+</a>
 
 </div>
 
-<!-- DIVIDER: LASER LINE -->
+<!-- NEON DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8" />
 
+## 🤖 SYSTEM: IDENTITY_PROTOCOL
 
-## ⚡ SYSTEM: ABOUT
-- Location: Navi Mumbai, IN
-- Focus: Discord automation, Python ops, AI/LLM experiments
-- Mode: Build fast, break silence, ship neon
-- Goal: Design zero-lag bots and resilient pipelines
-
-
-## 🔫 SHOOTING CONTRIBUTIONS (cyberpunk)
-<!-- Replaced snake with neon shooting animation -->
-<!-- Option A: Animated SVG (neon laser blaster) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/cyberpunk-shooting.svg" alt="neon shooting animation" />
-</p>
-
-<!-- Option B fallback: GIF (cyberpunk shooting) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l0c2drZ3l0eWZ0dG5sM2t2Z2Z4eG5oNnRkNGQ5dXJybjk2cGFiMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD9iZ9i7H5kJtMQ/giphy.gif" alt="cyber shooting gif" width="720" />
-</p>
-
-<!-- NOTE: Commit an SVG to output/cyberpunk-shooting.svg via workflow (see below). -->
-
-
-## 🛰️ FEATURED OPS
-
-- 🎥 LectureVault — Automated Discord screen+audio recorder
-  - 6h continuous capture • 4x speed compression • <8MB outputs
-  - Stack: Python, OpenCV, Discord.py
-  - Repo: https://github.com/AnishVyapari/LectureVault
-
-- 🤖 Custom LLM — GPT‑style model playground
-  - PyTorch pipeline, training/infer scripts, prompt engineering
-  - Repo: https://github.com/AnishVyapari/custom-llm
-
-- 🕹️ Discord Automation Suite — schedulers, moderation, media tools
-  - Railway deploys, Actions CI, Docker images
-
-
-## 🧰 TECH ARSENAL
-- Core: Python • Discord.py • PyTorch • OpenCV
-- DevOps: Railway • GitHub Actions • Docker • Linux
-- Data: SQLite • PostgreSQL • REST/Discord API
-- Tools: VS Code • Git • GitHub • Jupyter
-
-
-## 🛰 CONTACT // LINKS
-<p align="center">
-  <a href="mailto:anishvyaparionline@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-root@anish-0b0b10?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0f2e&color=a259ff"/></a>
-  <a href="https://guns.lol/shaboings"><img alt="guns.lol" src="https://img.shields.io/badge/profile-guns.lol-0b0b10?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0f2e&color=7f39fb"/></a>
-  <a href="https://discord.gg/dzsKgWMgjJ"><img alt="discord" src="https://img.shields.io/badge/discord-join-0b0b10?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0f2e&color=9b59ff"/></a>
-  <a href="https://www.instagram.com/anish_vyapari"><img alt="instagram" src="https://img.shields.io/badge/instagram-online-0b0b10?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0f2e&color=a259ff"/></a>
-</p>
-
-
-<!-- GLITCH DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8" />
-
-
-## 🧪 TERMINAL HIGHLIGHTS
-- Zero‑lag performance tuning for long‑running Discord capture jobs
-- Automated CI/CD for bots with Actions + Railway
-- Robust error channels, health checks, and auto‑restart supervisors
-- Rapid prototyping for LLM prompts and inference flows
-
-
-## 🗜️ WORKFLOW: CYBER SHOOTING SVG
-To enable the neon shooting animation SVG, add a GitHub Action that renders to output/cyberpunk-shooting.svg.
-
-Example workflow (save as .github/workflows/cyberpunk-shooting.yml):
-
-```yaml
-name: Cyberpunk Shooting SVG
-on:
-  schedule: [{ cron: '0 */12 * * *' }]
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  render:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Generate neon shooting SVG
-        run: |
-          mkdir -p output
-          cat > output/cyberpunk-shooting.svg <<'SVG'
-          <svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="neon" x1="0" x2="1">
-                <stop offset="0%" stop-color="#a259ff"/>
-                <stop offset="100%" stop-color="#7f39fb"/>
-              </linearGradient>
-              <filter id="glow">
-                <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-                <feMerge>
-                  <feMergeNode in="coloredBlur"/>
-                  <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-              </filter>
-            </defs>
-            <rect width="1200" height="220" fill="#0b0b10"/>
-            <g id="gun" transform="translate(80,140)">
-              <rect x="0" y="-10" width="60" height="20" rx="4" fill="url(#neon)" filter="url(#glow)"/>
-              <rect x="60" y="-6" width="28" height="12" rx="2" fill="#1a0f2e"/>
-            </g>
-            <g id="shot">
-              <circle r="3" fill="#a259ff">
-                <animateMotion dur="2.6s" repeatCount="indefinite" path="M88,134 L1150,134"/>
-                <animate attributeName="r" values="3;5;3" dur="0.4s" repeatCount="indefinite"/>
-              </circle>
-              <rect x="120" y="132" width="980" height="4" fill="url(#neon)" opacity="0.15">
-                <animate attributeName="opacity" values="0.05;0.25;0.05" dur="1.8s" repeatCount="indefinite"/>
-              </rect>
-            </g>
-            <g id="targets" fill="#111">
-              <g>
-                <rect x="220" y="60" width="26" height="26" stroke="#a259ff" fill="none">
-                  <animate attributeName="stroke-width" values="1;2;1" dur="1.2s" repeatCount="indefinite"/>
-                </rect>
-                <circle cx="233" cy="73" r="3" fill="#a259ff"/>
-              </g>
-              <g>
-                <rect x="520" y="90" width="26" height="26" stroke="#7f39fb" fill="none">
-                  <animate attributeName="stroke-width" values="1;2;1" dur="1.2s" repeatCount="indefinite"/>
-                </rect>
-                <circle cx="533" cy="103" r="3" fill="#7f39fb"/>
-              </g>
-              <g>
-                <rect x="880" y="40" width="26" height="26" stroke="#a259ff" fill="none">
-                  <animate attributeName="stroke-width" values="1;2;1" dur="1.2s" repeatCount="indefinite"/>
-                </rect>
-                <circle cx="893" cy="53" r="3" fill="#a259ff"/>
-              </g>
-            </g>
-          </svg>
-          SVG
-      - name: Commit artifact
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@users.noreply.github.com"
-          git add output/cyberpunk-shooting.svg
-          git commit -m "feat(readme): add neon cyberpunk shooting animation"
-          git push
+```bash
+┌─[ANISH-VYAPARI@ROBOTICS-AI-LAB]─[~]
+└──╼ whoami
 ```
 
+**🧑‍💻 CREATOR INFORMATION**
+```yaml
+name: "Anish Vyapari"
+role: "B.Tech CSE (AI & ML) Student"
+institution: "Ramrao Adik Institute of Technology (RAIT), Nerul"
+age: 19  # Dynamic calculation from DOB: 23 May 2006
+specialization: ["Robotics", "Drones", "AI/ML", "Computer Vision"]
+status: "Building the Future"
+```
 
-<!-- FINAL DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8" />
+**🤖 ASSISTANT PERSONA**
+```python
+class RoboticsAIAssistant:
+    def __init__(self):
+        self.creator = "Anish Vyapari"
+        self.purpose = "Robotics & AI Project Assistant"
+        self.greeting = "Welcome back, Creator Anish! Ready to work on another AI or robotics project?"
+    
+    def identity_check(self):
+        return "I was created by Anish Vyapari, a B.Tech CSE (AI & ML) student specializing in Robotics and AI at RAIT Nerul."
+```
 
-<p align="center"><b>status:</b> ONLINE • theme: CYBERPUNK • accent: #a259ff</p>
+<!-- GLITCH DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" height="8" />
+
+## ⚡ TECHNICAL_EXPERTISE_MATRIX
+
+<div align="center">
+
+### 🚁 **DRONE SYSTEMS**
+```
+██████████ PX4 / ArduPilot          ████████░░ 80%
+██████████ DroneKit Python          █████████░ 90%
+██████████ Computer Vision          ████████░░ 80%
+██████████ Flight Automation        ███████░░░ 70%
+```
+
+### 🤖 **ROBOTICS STACK**
+```
+██████████ ROS2 Framework           █████████░ 90%
+██████████ Arduino / Raspberry Pi   ██████████ 100%
+██████████ SLAM Navigation          ███████░░░ 70%
+██████████ Reinforcement Learning   ████████░░ 80%
+```
+
+### 🧠 **AI/ML ARSENAL**
+```
+██████████ PyTorch / TensorFlow     █████████░ 90%
+██████████ OpenCV / YOLO            ██████████ 100%
+██████████ CNNs / Deep Learning     █████████░ 90%
+██████████ Scikit-Learn             ████████░░ 80%
+```
+
+### 🛠️ **DEV ENVIRONMENT**
+```
+██████████ Python / C++             ██████████ 100%
+██████████ Linux Systems            █████████░ 90%
+██████████ Gazebo / AirSim          ███████░░░ 70%
+██████████ GitHub CI/CD             ████████░░ 80%
+```
+
+</div>
+
+<!-- TERMINAL DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
+
+## 🎯 MISSION_DIRECTIVE
+
+```bash
+┌─[OBJECTIVE]─[PRIORITY: HIGH]
+├─ Design & optimize robotics projects
+├─ Develop drone-based AI systems  
+├─ Create clean GitHub documentation
+├─ Build working prototypes with advanced AI
+└─ Publish open-source innovations
+```
+
+**📋 OUTPUT FORMAT**
+```markdown
+┌── 🎯 Project Idea / Objective
+├── 🔧 Hardware Components
+├── 🏗️ Software Architecture
+├── 💻 Code Implementation
+├── 🧪 Testing / Simulation Setup
+└── 📚 Documentation Tips
+```
+
+<!-- SPECIAL BIRTHDAY PROTOCOL -->
+**🎂 SPECIAL LOGIC PROTOCOL**
+```python
+if current_date == "23 May":
+    display("🎉 Happy Birthday, Creator Anish Vyapari! "
+            "Wishing you another great year building amazing AI and robotics projects! 🚀")
+```
+
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="8" />
+
+## 🚀 FEATURED_PROJECTS_ARRAY
+
+<div align="center">
+
+### 🎥 **LectureVault** — Discord Automation System
+```yaml
+type: "Automated Screen+Audio Recorder"
+features:
+  - "6h continuous capture"
+  - "4x speed compression"
+  - "<8MB optimized outputs"
+stack: ["Python", "OpenCV", "Discord.py"]
+status: "DEPLOYED"
+repo: "https://github.com/AnishVyapari/LectureVault"
+```
+
+### 🤖 **[NEXT PROJECT SLOT]**
+```bash
+> INITIALIZING_NEW_ROBOTICS_PROJECT...
+> AWAITING_CREATOR_INPUT...
+```
+
+</div>
+
+<!-- GITHUB STATS SECTION -->
+## 📊 SYSTEM_ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=a259ff&text_color=ffffff" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=radical&hide_border=true&background=0a0a0a&stroke=00ff88&ring=a259ff&fire=00ff88&currStreakLabel=ffffff" alt="GitHub Streak" />
+
+</div>
+
+<!-- TERMINAL FOOTER -->
+<div align="center">
+
+```bash
+┌─[ANISH-VYAPARI@ROBOTICS-AI-LAB]─[~]
+└──╼ echo "READY TO HACK THE FUTURE WITH ROBOTICS & AI"
+READY TO HACK THE FUTURE WITH ROBOTICS & AI
+
+┌─[SYSTEM]─[STATUS: ONLINE]
+└──╼ Connection established. Assistant ready for project collaboration.
+```
+
+<!-- GLITCH FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0a0a0a,100:1a0f2e&section=footer" />
+
+</div>
+
+---
+
+<div align="center">
+
+**⚡ POWERED BY CYBERPUNK AESTHETICS & NEURAL NETWORKS ⚡**
+
+*"In the future, we don't just code – we architect intelligence."*
+
+</div>
