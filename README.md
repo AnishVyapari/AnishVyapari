@@ -3,13 +3,14 @@
 </div>
 
 <h3 align="center">🤖 Robotics & AI Systems Developer | 🎓 B.Tech CSE (AI & ML) @ RAIT Nerul</h3>
+
 <p align="center">📍 Navi Mumbai, India 🇮🇳</p>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-vyapari-8a8089258/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anish.vyapari/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish.vyapari@rait.ac.in)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anish_vyapari/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishvyaparionline@gmail.com)
 
 </div>
 
@@ -53,11 +54,13 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Tools & Platforms
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -66,30 +69,33 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 ## 🚀 Featured Projects
 
 ### 🚁 Autonomous Surveillance Drone
-> **Advanced UAV system with real-time object detection and autonomous navigation**
 
-- 🎯 Integrated YOLOv8 for real-time threat detection
-- 🗺️ GPS-based waypoint navigation system
-- 📡 Long-range FPV telemetry (up to 2km)
-- 🔋 Smart battery management with RTH capabilities
+> **Next-gen UAV with real-time object detection and autonomous navigation**
 
-**Tech Stack:** Python, OpenCV, YOLOv8, Pixhawk, MAVLink, ROS
+- 🎯 YOLOv8-powered real-time object detection
+- 🧭 GPS-based autonomous waypoint navigation
+- 📡 Live video streaming with telemetry data
+- 🛡️ Obstacle avoidance using depth sensing
+
+**Tech Stack:** Python, OpenCV, TensorFlow, DroneKit, MAVLink
 
 ---
 
 ### 🤖 Vision-Guided Robotic Arm
-> **Industrial automation system with computer vision for pick-and-place operations**
 
-- 👁️ Real-time object detection and classification
-- 🎯 Precise 6-DOF inverse kinematics control
-- 📦 Automated sorting based on color/shape recognition
-- 🔄 Integration with conveyor belt systems
+> **Industrial-grade robotic arm with AI-powered vision system**
 
-**Tech Stack:** Python, OpenCV, Arduino, Servo Control, TensorFlow
+- 👁️ Computer vision for object recognition and localization
+- 🎮 Inverse kinematics for precise movement control
+- 🔄 Real-time path planning and collision avoidance
+- 📊 Integration with ROS for system control
+
+**Tech Stack:** Python, ROS, OpenCV, PyTorch, Arduino
 
 ---
 
-### 🌾 Smart Agriculture Monitoring System
+### 🌾 Smart Agricultural Drone System
+
 > **IoT-based crop health monitoring with drone surveillance**
 
 - 🛰️ Aerial imagery capture and analysis
@@ -139,8 +145,8 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 **Open to collaborations in Robotics, Drones, Computer Vision, and AI!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-vyapari-8a8089258/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:anish.vyapari@rait.ac.in)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/anish.vyapari/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:anishvyaparionline@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/anish_vyapari/)
 
 </div>
 
