@@ -1,150 +1,187 @@
 <div align="center">
 
-# 👋 Hi, I'm Anish Vyapari
+<!-- STRIKING ANIMATED BANNER -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anish%20Vyapari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Discord%20Bot%20Developer%20%7C%20Python%20Automation%20Enthusiast&descAlignY=55&descSize=18)
 
-### 🚀 Full Stack Developer | Cloud Architect | Tech Enthusiast
+<!-- DYNAMIC TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🤖+Building+Discord+Bots+%26+Automation;🎯+LLM+%26+AI+Experimentation;⚡+Python+%7C+Railway+%7C+GitHub+Actions;🌟+From+Navi+Mumbai%2C+India)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I'm currently working on **Cloud Native Applications**
-- 🌱 I'm continuously learning **AI/ML, Kubernetes, and Advanced Backend Systems**
-- 💬 Ask me about **Python, React, Cloud Architecture, and DevOps**
-- ⚡ Fun fact: I love automating everything!
-- 📫 How to reach me: Connect with me through the links below
-
----
-
-## 🌐 Get In Touch
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anishvyapari.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@anishvyapari.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishvyapari)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishVyapari)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anishvyapari)
+<!-- ANIMATED WAVE -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+> **Engineering Student from Navi Mumbai, India** 🇮🇳  
+> Passionate about **Discord Bot Development**, **Python Automation**, and **AI/LLM experiments**. I love building tools that solve real problems, from screen recording bots that capture 6-hour lectures to custom language models. When I'm not coding, I'm exploring new automation possibilities and contributing to the developer community.
+
+- 🔭 Currently working on **Custom LLM implementations** and **Advanced Discord Bot ecosystems**
+- 🌱 Learning **GPT architectures**, **Railway deployment**, and **Advanced Python automation**
+- 💡 Specialized in **Discord.py**, **OpenCV**, **PyTorch**, and **System Integration**
+- 🎯 Goal: Create innovative automation solutions that enhance productivity
+- ⚡ Fun fact: I can automate almost anything with Python!
+
+---
+
+## 🎨 Featured Projects
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-
-### 🌐 Frontend Development
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-
-### ⚙️ Backend Development
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-
-### 🗄️ Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-
-### 🔧 Tools & Others
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🎥 LectureVault</h3>
+<a href="https://github.com/AnishVyapari/LectureVault">
+<img src="https://img.shields.io/badge/Discord-Screen%20Recorder-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<br><br>
+<strong>Automated Discord screen & audio recorder</strong><br>
+✨ 6-hour continuous recording capability<br>
+⚡ 4x speed compression (3min → 45sec)<br>
+🎯 Zero-lag performance, < 8MB files<br>
+<sub>Python • OpenCV • Discord.py • Audio Processing</sub>
+</td>
+<td align="center" width="50%">
+<h3>🤖 Custom LLM</h3>
+<a href="https://github.com/AnishVyapari/custom-llm">
+<img src="https://img.shields.io/badge/GPT--Style-Language%20Model-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white" />
+</a>
+<br><br>
+<strong>GPT-style LLM built from scratch</strong><br>
+🧠 Complete PyTorch implementation<br>
+🎯 Custom training & inference pipeline<br>
+⚡ System prompt engineering<br>
+<sub>PyTorch • Transformers • NLP • Machine Learning</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>⚙️ Discord Automation Suite</h3>
+<a href="https://github.com/AnishVyapari">
+<img src="https://img.shields.io/badge/Multi--Bot-Ecosystem-4ECDC4?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<br><br>
+<strong>Professional Discord bot collection</strong><br>
+🛡️ Server setup & role automation<br>
+🎵 All-in-one moderation system<br>
+⚡ Zero-lag performance optimization<br>
+<sub>Discord.py • Async Python • Database Integration</sub>
+</td>
+<td align="center" width="50%">
+<h3>🔮 AI/ML Experiments</h3>
+<a href="https://github.com/AnishVyapari">
+<img src="https://img.shields.io/badge/Experimental-AI%20Projects-9B59B6?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</a>
+<br><br>
+<strong>Cutting-edge AI implementations</strong><br>
+🤖 Neural network architectures<br>
+🎯 Computer vision applications<br>
+⚡ Automation with ML integration<br>
+<sub>TensorFlow • PyTorch • OpenAI • Computer Vision</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=tokyonight&hide_border=true&background=0D1117" alt="Anish's GitHub Streak" width="48%" />
+```yaml
+Discord Bot Development:
+  - 🎥 Built 6-hour screen recording bot with zero memory leaks
+  - 🚀 Deployed multiple production bots serving 1000+ users
+  - ⚡ Achieved sub-50ms response times across all bot commands
+  - 🛡️ Implemented advanced moderation systems with AI integration
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Anish's Top Languages" width="48%" />
+Python Automation:
+  - 🔧 Created 20+ automation scripts for daily productivity
+  - 📊 Built real-time system monitoring with Discord notifications  
+  - 🎯 Automated deployment pipelines using GitHub Actions
+  - ⚙️ Developed custom CLI tools for development workflows
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnishVyapari&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVyapari&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+AI/ML Projects:
+  - 🧠 Implemented GPT-style transformer from scratch
+  - 🎯 Created custom training pipelines for specialized models
+  - 🔮 Experimented with computer vision for automation
+  - 📈 Optimized model performance for production deployment
+```
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake.svg">
-</picture>
+### 🐍 Core Technologies
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
+[![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org)
+
+### ☁️ Deployment & DevOps
+[![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+
+### 🗄️ Databases & APIs
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers)
+[![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net)
+
+### 🎨 Development Tools
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnishVyapari&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AnishVyapari/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnishVyapari&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AnishVyapari/project2)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AnishVyapari&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+### 🐍 Contribution Graph
+![Snake animation](https://github.com/AnishVyapari/AnishVyapari/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## 👁️ Profile Visitors
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AnishVyapari&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anish@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishVyapari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishvyapari)
+
+### 💬 Let's Collaborate!
+
+**Open to:**
+- 🤝 Discord bot collaborations
+- 🔬 AI/ML research projects
+- 🚀 Open source contributions
+- 💼 Internship opportunities
+- 🎯 Hackathon partnerships
 
 </div>
 
@@ -152,14 +189,12 @@
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 🎯 "Building the future, one line of code at a time" 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<img src="https://komarev.com/ghpvc/?username=AnishVyapari&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
-### ✨ Thanks for stopping by! Let's build something amazing together. 🚀
+**⭐ From [Anish Vyapari](https://github.com/AnishVyapari) | Navi Mumbai, India 🇮🇳**
 
-**⭐ Star my repositories if you find them interesting!**
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px" />
 
 </div>
