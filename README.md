@@ -1,197 +1,156 @@
-<!-- ===================== CYBERPUNK AI ROBOTICS ASSISTANT ===================== -->
 <div align="center">
 
-<!-- GLITCH ASCII HEADER -->
-<pre style="font-family: 'Fira Code', monospace; color: #00ff88; background: linear-gradient(45deg, #0a0a0a, #1a0f2e); padding: 20px; border-radius: 10px; text-shadow: 0 0 10px #00ff88;">
-██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗███████╗     █████╗ ██╗    
-██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝██╔════╝    ██╔══██╗██║    
-██████╔╝██║   ██║██████╔╝██║   ██║   ██║   ██║██║     ███████╗    ███████║██║    
-██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ██║██║     ╚════██║    ██╔══██║██║    
-██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   ██║╚██████╗███████║    ██║  ██║██║    
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝ ╚═════╝╚══════╝    ╚═╝  ╚═╝╚═╝    
-                                                                                  
- █████╗ ███████╗███████╗██╗███████╗████████╗ █████╗ ███╗   ██╗████████╗        
-██╔══██╗██╔════╝██╔════╝██║██╔════╝╚══██╔══╝██╔══██╗████╗  ██║╚══██╔══╝        
-███████║███████╗███████╗██║███████╗   ██║   ███████║██╔██╗ ██║   ██║           
-██╔══██║╚════██║╚════██║██║╚════██║   ██║   ██╔══██║██║╚██╗██║   ██║           
-██║  ██║███████║███████║██║███████║   ██║   ██║  ██║██║ ╚████║   ██║           
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝           
-</pre>
+<img src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/main/assets/rait-logo.png" alt="RAIT Nerul" width="120" />
 
-<!-- CYBERPUNK BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,50:1a0f2e,100:0a0a0a&text=ANISH%20VYAPARI&fontAlign=50&fontColor=00ff88&fontSize=42&animation=twinkling&desc=// ROBOTICS %26 AI PROJECT ASSISTANT //&descAlign=62&descAlignY=75" alt="cyberpunk banner" />
+# Anish Vyapari
 
-<!-- STATUS BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0a0a0a&color=00ff88&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iOCIgY3k9IjgiIHI9IjgiIGZpbGw9IiMwMGZmODgiLz4KPC9zdmc+" />
-  <img src="https://img.shields.io/badge/MODE-HACKER-1a0f2e?style=for-the-badge&labelColor=0a0a0a&color=a259ff" />
-  <img src="https://img.shields.io/badge/FOCUS-ROBOTICS+AI-0a0a0a?style=for-the-badge&labelColor=1a0f2e&color=00ff88" />
-</p>
+**Robotics & AI Systems Developer**
 
-<!-- TERMINAL TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=%3E%3E%3E+INITIALIZING+AI+ASSISTANT+PROTOCOL;SPECIALIZING+IN+ROBOTICS+%2B+DRONE+SYSTEMS;B.TECH+CSE+(AI+%26+ML)+%7C+RAIT+NERUL;BUILDING+THE+FUTURE+WITH+CODE+%26+CIRCUITS" alt="typing" />
-</a>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-654fa3?style=flat-square" alt="Education" />
+<img src="https://img.shields.io/badge/Institution-RAIT%20Nerul-654fa3?style=flat-square" alt="Institution" />
+<img src="https://img.shields.io/badge/Focus-Robotics%20%7C%20Drones%20%7C%20Computer%20Vision-654fa3?style=flat-square" alt="Focus Areas" />
 
 </div>
 
-<!-- NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="8" />
+---
 
-## 🤖 SYSTEM: IDENTITY_PROTOCOL
+## Profile Overview
 
-```bash
-┌─[ANISH-VYAPARI@ROBOTICS-AI-LAB]─[~]
-└──╼ whoami
-```
+B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Ramrao Adik Institute of Technology (RAIT), Nerul. Focused on developing intelligent robotic systems, drone automation, and computer vision applications.
 
-**🧑‍💻 CREATOR INFORMATION**
+**Birthday:** May 23, 2006 | **Age:** 19
+
+---
+
+## Technical Expertise
+
+**Programming & Development**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI & Machine Learning**
+- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Robotics & Embedded Systems**
+- ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+---
+
+## Featured Projects
+
+### LectureVault | Automated Lecture Recording System
+
+**Description:** Discord-based automation system for recording, compressing, and archiving lectures efficiently.
+
+**Key Features:**
+- 6-hour continuous screen and audio capture capability
+- 4x speed video compression algorithm
+- Output files optimized to under 8MB for easy storage and sharing
+- Seamless Discord integration for automated delivery
+
+**Technology Stack:**
+- **Languages:** Python
+- **Libraries:** OpenCV, Discord.py, FFmpeg
+- **Status:** Deployed and Operational
+
+**Repository:** [github.com/AnishVyapari/LectureVault](https://github.com/AnishVyapari/LectureVault)
+
+---
+
+### Upcoming Robotics Project
+
+**Status:** In Development
+
+Currently planning and prototyping a new robotics project that combines autonomous navigation with computer vision. More details will be available upon initial deployment.
+
+---
+
+## Assistant Persona Logic
+
+This GitHub profile represents both my personal work and serves as an interface to my project assistant persona:
+
 ```yaml
-name: "Anish Vyapari"
-role: "B.Tech CSE (AI & ML) Student"
-institution: "Ramrao Adik Institute of Technology (RAIT), Nerul"
-age: 19  # Dynamic calculation from DOB: 23 May 2006
-specialization: ["Robotics", "Drones", "AI/ML", "Computer Vision"]
-status: "Building the Future"
+Creator:
+  name: "Anish Vyapari"
+  role: "B.Tech CSE (AI & ML) Student"
+  institution: "Ramrao Adik Institute of Technology (RAIT), Nerul"
+  age: 19
+  date_of_birth: "May 23, 2006"
+  specializations:
+    - Robotics Systems
+    - Drone Technology
+    - AI/ML Engineering
+    - Computer Vision
+
+Assistant_Behavior:
+  purpose: "Project collaboration and technical assistance"
+  expertise:
+    - Robotics development and debugging
+    - AI/ML model implementation
+    - Drone systems programming
+    - Computer vision algorithm optimization
+  communication_style: "Professional, technical, solution-oriented"
+  availability: "Active for project inquiries and collaboration"
+
+Birthday_Protocol:
+  trigger_date: "May 23"
+  response: |
+    Wishing you another great year building amazing AI and robotics projects!
+    Looking forward to the innovative systems you'll create this year.
 ```
 
-**🤖 ASSISTANT PERSONA**
-```python
-class RoboticsAIAssistant:
-    def __init__(self):
-        self.creator = "Anish Vyapari"
-        self.purpose = "Robotics & AI Project Assistant"
-        self.greeting = "Welcome back, Creator Anish! Ready to work on another AI or robotics project?"
-    
-    def identity_check(self):
-        return "I was created by Anish Vyapari, a B.Tech CSE (AI & ML) student specializing in Robotics and AI at RAIT Nerul."
+---
+
+## Project Development Guide
+
+### Standard Project Structure
+
+```plaintext
+project-name/
+├── src/              # Source code
+├── tests/            # Unit and integration tests
+├── docs/             # Documentation
+├── config/           # Configuration files
+├── data/             # Datasets and resources
+├── models/           # Trained ML models
+└── README.md         # Project overview
 ```
 
-<!-- GLITCH DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" height="8" />
+### Development Workflow
 
-## ⚡ TECHNICAL_EXPERTISE_MATRIX
+1. **Planning:** Define objectives, requirements, and success metrics
+2. **Prototyping:** Build minimal viable prototype for concept validation
+3. **Development:** Implement full feature set with modular architecture
+4. **Testing:** Comprehensive unit tests and system integration tests
+5. **Documentation:** Clear technical documentation and user guides
+6. **Deployment:** Production release with monitoring and maintenance plan
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-### 🚁 **DRONE SYSTEMS**
-```
-██████████ PX4 / ArduPilot          ████████░░ 80%
-██████████ DroneKit Python          █████████░ 90%
-██████████ Computer Vision          ████████░░ 80%
-██████████ Flight Automation        ███████░░░ 70%
-```
+<img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=transparent&hide_border=true&title_color=654fa3&icon_color=654fa3&text_color=333333" alt="GitHub Stats" />
 
-### 🤖 **ROBOTICS STACK**
-```
-██████████ ROS2 Framework           █████████░ 90%
-██████████ Arduino / Raspberry Pi   ██████████ 100%
-██████████ SLAM Navigation          ███████░░░ 70%
-██████████ Reinforcement Learning   ████████░░ 80%
-```
-
-### 🧠 **AI/ML ARSENAL**
-```
-██████████ PyTorch / TensorFlow     █████████░ 90%
-██████████ OpenCV / YOLO            ██████████ 100%
-██████████ CNNs / Deep Learning     █████████░ 90%
-██████████ Scikit-Learn             ████████░░ 80%
-```
-
-### 🛠️ **DEV ENVIRONMENT**
-```
-██████████ Python / C++             ██████████ 100%
-██████████ Linux Systems            █████████░ 90%
-██████████ Gazebo / AirSim          ███████░░░ 70%
-██████████ GitHub CI/CD             ████████░░ 80%
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=transparent&hide_border=true&stroke=654fa3&ring=654fa3&fire=654fa3&currStreakLabel=333333" alt="GitHub Streak" />
 
 </div>
 
-<!-- TERMINAL DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" />
+---
 
-## 🎯 MISSION_DIRECTIVE
-
-```bash
-┌─[OBJECTIVE]─[PRIORITY: HIGH]
-├─ Design & optimize robotics projects
-├─ Develop drone-based AI systems  
-├─ Create clean GitHub documentation
-├─ Build working prototypes with advanced AI
-└─ Publish open-source innovations
-```
-
-**📋 OUTPUT FORMAT**
-```markdown
-┌── 🎯 Project Idea / Objective
-├── 🔧 Hardware Components
-├── 🏗️ Software Architecture
-├── 💻 Code Implementation
-├── 🧪 Testing / Simulation Setup
-└── 📚 Documentation Tips
-```
-
-<!-- SPECIAL BIRTHDAY PROTOCOL -->
-**🎂 SPECIAL LOGIC PROTOCOL**
-```python
-if current_date == "23 May":
-    display("🎉 Happy Birthday, Creator Anish Vyapari! "
-            "Wishing you another great year building amazing AI and robotics projects! 🚀")
-```
-
-<!-- NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="8" />
-
-## 🚀 FEATURED_PROJECTS_ARRAY
+## Contact & Collaboration
 
 <div align="center">
 
-### 🎥 **LectureVault** — Discord Automation System
-```yaml
-type: "Automated Screen+Audio Recorder"
-features:
-  - "6h continuous capture"
-  - "4x speed compression"
-  - "<8MB optimized outputs"
-stack: ["Python", "OpenCV", "Discord.py"]
-status: "DEPLOYED"
-repo: "https://github.com/AnishVyapari/LectureVault"
-```
-
-### 🤖 **[NEXT PROJECT SLOT]**
-```bash
-> INITIALIZING_NEW_ROBOTICS_PROJECT...
-> AWAITING_CREATOR_INPUT...
-```
-
-</div>
-
-<!-- GITHUB STATS SECTION -->
-## 📊 SYSTEM_ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff88&icon_color=a259ff&text_color=ffffff" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=radical&hide_border=true&background=0a0a0a&stroke=00ff88&ring=a259ff&fire=00ff88&currStreakLabel=ffffff" alt="GitHub Streak" />
-
-</div>
-
-<!-- TERMINAL FOOTER -->
-<div align="center">
-
-```bash
-┌─[ANISH-VYAPARI@ROBOTICS-AI-LAB]─[~]
-└──╼ echo "READY TO HACK THE FUTURE WITH ROBOTICS & AI"
-READY TO HACK THE FUTURE WITH ROBOTICS & AI
-
-┌─[SYSTEM]─[STATUS: ONLINE]
-└──╼ Connection established. Assistant ready for project collaboration.
-```
-
-<!-- GLITCH FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0a0a0a,100:1a0f2e&section=footer" />
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnishVyapari)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anishvyapari)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anish.vyapari@example.com)
 
 </div>
 
@@ -199,8 +158,8 @@ READY TO HACK THE FUTURE WITH ROBOTICS & AI
 
 <div align="center">
 
-**⚡ POWERED BY CYBERPUNK AESTHETICS & NEURAL NETWORKS ⚡**
+**Building intelligent systems with precision and purpose**
 
-*"In the future, we don't just code – we architect intelligence."*
+*Open to collaboration on robotics, AI, and drone technology projects*
 
 </div>
