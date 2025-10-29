@@ -130,8 +130,8 @@ I'm a Computer Science Engineering student specializing in **Artificial Intellig
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Winner** - College Tech Fest Robotics Competition 2024
-- 🎓 **CGPA: 9.2+** - Consistent academic excellence
+- 🥇 **Winner** - hackathon 2024
+- 🎓 **GPA: 7+** - Consistent academic excellence
 - 🚁 **Built 5+ Drone Systems** - From FPV racing to autonomous surveillance
 - 🤖 **10+ Robotics Projects** - Spanning automation, vision, and AI
 - 💡 **Active Contributor** - Open-source robotics and AI projects
