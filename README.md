@@ -12,15 +12,15 @@
     
     <!-- Glass Effect Filter -->
     <filter id="glassBlur">
-      <feGaussianBlur stdDeviation="40"/>
+      <feGaussianBlur stdDeviation="40" />
     </filter>
     
     <!-- Star Pattern -->
-    <pattern id="stars" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="1" fill="#FFFFFF" opacity="0.6"/>
-      <circle cx="50" cy="30" r="0.5" fill="#A663CC" opacity="0.8"/>
-      <circle cx="80" cy="60" r="1.5" fill="#7209B7" opacity="0.4"/>
-      <circle cx="20" cy="80" r="0.8" fill="#FFFFFF" opacity="0.7"/>
+    <pattern id="stars" patternUnits="userSpaceOnUse" width="100" height="100" x="0" y="0">
+      <circle cx="10" cy="10" r="1" fill="#FFFFFF" opacity="0.6" />
+      <circle cx="50" cy="30" r="0.5" fill="#A663CC" opacity="0.8" />
+      <circle cx="80" cy="60" r="1.5" fill="#7209B7" opacity="0.4" />
+      <circle cx="20" cy="80" r="0.8" fill="#FFFFFF" opacity="0.7" />
     </pattern>
   </defs>
   
@@ -36,12 +36,12 @@
     </circle>
     
     <circle cx="1000" cy="200" r="80" fill="url(#deepPurple)" opacity="0.6">
-      <animate attributeName="cx" values="1000;200;1000" dur="25s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="200;80;200" dur="18s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="1000;200;1000" dur="25s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="200;80;200" dur="18s" repeatCount="indefinite" />
     </circle>
     
     <circle cx="600" cy="50" r="60" fill="url(#deepPurple)" opacity="0.4">
-      <animate attributeName="cy" values="50;250;50" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="50;250;50" dur="12s" repeatCount="indefinite" />
     </circle>
   </g>
   
@@ -56,85 +56,58 @@
   <!-- Subtitle -->
   <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" 
         fill="#B8B8CC" font-size="20" font-family="'SF Pro Display', 'Segoe UI', system-ui">
-    Robotics Engineer • AI/ML Developer • Drone Systems Specialist
-  </text>
-  
-  <!-- Location with pulse -->
-  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" 
-        fill="#A663CC" font-size="16" font-family="'SF Pro Display', 'Segoe UI', system-ui">
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
-    📍 Bengaluru, India
+    🚀 Robotics Engineer | AI/ML | Full-Stack Developer
   </text>
 </svg>
 
-<!-- Animated Social Links with Glassmorphism -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/anish-vyapari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-A663CC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D1B69" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AnishVyapari" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-7209B7?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69" alt="GitHub" />
-  </a>
-  <a href="mailto:anishvyapari@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-A663CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D1B69" alt="Email" />
-  </a>
-</p>
-
-<!-- Animated Stats -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnishVyapari&label=Profile%20Views&color=7209B7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AnishVyapari?label=Followers&style=for-the-badge&color=A663CC&labelColor=2D1B69" alt="GitHub Followers" />
-</p>
+<!-- Custom Deep-Space Purple Glassmorphism Snake GIF -->
+<img src="https://i.imgur.com/X8bKCYp.gif" alt="Energetic Tech Waveform" width="100%" />
 
 </div>
-
----
-
-<!-- GitHub Contribution Snake Animation with Deep-Space Purple Theme -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnishVyapari/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(166, 99, 204, 0.5));">
-  </picture>
-</div>
-
-<br/>
 
 ---
 
 ## 🚀 About Me
 
-Passionate **Robotics Engineer** and **AI/ML Developer** specializing in autonomous systems and intelligent drone technology. I bridge the gap between theoretical AI and real-world robotic applications, creating solutions that push the boundaries of what's possible.
+I'm a passionate **Robotics Engineer** and **Full-Stack Developer** building intelligent systems that bridge the gap between hardware and software. Currently diving deep into autonomous systems, computer vision, and AI/ML applications.
 
-### 🎯 Core Expertise
-- 🤖 **Autonomous Systems**: Path planning, SLAM, and navigation for mobile robots
-- 🧠 **Machine Learning**: Computer vision, deep learning, and reinforcement learning
-- 🛸 **Drone Technology**: Flight control, mission planning, and swarm coordination
-- 🔧 **Edge Computing**: Hardware-software integration for embedded AI
-- 📡 **IoT Systems**: Connected devices and sensor networks
+- 🔭 Working on **Autonomous Drone Navigation** & **Computer Vision**
+- 🌱 Learning **Deep Reinforcement Learning** & **ROS2**
+- 💡 Love to explore **IoT**, **Embedded Systems**, and **Automation**
+- ⚡ Fun fact: Coffee-powered debugging sessions are my superpower ☕
 
 ---
 
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+## 💻 Tech Stack
 
-### AI/ML & Robotics
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI/ML & Data Science
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Robotics & Embedded
+
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### Development
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -148,15 +121,15 @@ Passionate **Robotics Engineer** and **AI/ML Developer** specializing in autonom
 
 <div align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&border_color=2D1B69&border_radius=15" 
-  alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&border_color=2D1B69&border_radius=15" 
+    alt="Top Languages" 
   />
 </div>
 
 <div align="center">
   <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVyapari&bg_color=0A0A0F&color=F0F0F0&line=A663CC&point=7209B7&area=true&hide_border=true" 
-  alt="Activity Graph" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVyapari&bg_color=0A0A0F&color=F0F0F0&line=A663CC&point=7209B7&area=true&hide_border=true" 
+    alt="Activity Graph" 
   />
 </div>
 
