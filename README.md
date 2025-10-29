@@ -12,15 +12,15 @@
     
     <!-- Glass Effect Filter -->
     <filter id="glassBlur">
-      <feGaussianBlur stdDeviation="40" />
+      <feGaussianBlur stdDeviation="40"/>
     </filter>
     
     <!-- Star Pattern -->
     <pattern id="stars" x="0" y="0" width="100" height="100" patternUnits="userSpaceOnUse">
-      <circle cx="10" cy="10" r="1" fill="#FFFFFF" opacity="0.6" />
-      <circle cx="50" cy="30" r="0.5" fill="#A663CC" opacity="0.8" />
-      <circle cx="80" cy="60" r="1.5" fill="#7209B7" opacity="0.4" />
-      <circle cx="20" cy="80" r="0.8" fill="#FFFFFF" opacity="0.7" />
+      <circle cx="10" cy="10" r="1" fill="#FFFFFF" opacity="0.6"/>
+      <circle cx="50" cy="30" r="0.5" fill="#A663CC" opacity="0.8"/>
+      <circle cx="80" cy="60" r="1.5" fill="#7209B7" opacity="0.4"/>
+      <circle cx="20" cy="80" r="0.8" fill="#FFFFFF" opacity="0.7"/>
     </pattern>
   </defs>
   
@@ -35,13 +35,13 @@
       <animate attributeName="cy" values="100;200;100" dur="15s" repeatCount="indefinite" />
     </circle>
     
-    <circle r="80" cx="1000" cy="200" fill="url(#deepPurple)" opacity="0.6">
-      <animate attributeName="cx" values="1000;200;1000" dur="25s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="200;80;200" dur="18s" repeatCount="indefinite" />
+    <circle cx="1000" cy="200" r="80" fill="url(#deepPurple)" opacity="0.6">
+      <animate attributeName="cx" values="1000;200;1000" dur="25s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="200;80;200" dur="18s" repeatCount="indefinite"/>
     </circle>
     
-    <circle r="60" cx="600" cy="50" fill="url(#deepPurple)" opacity="0.4">
-      <animate attributeName="cy" values="50;250;50" dur="12s" repeatCount="indefinite" />
+    <circle cx="600" cy="50" r="60" fill="url(#deepPurple)" opacity="0.4">
+      <animate attributeName="cy" values="50;250;50" dur="12s" repeatCount="indefinite"/>
     </circle>
   </g>
   
@@ -63,83 +63,54 @@
   <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" 
         fill="#A663CC" font-size="16" font-family="'SF Pro Display', 'Segoe UI', system-ui">
     <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite" />
-    📍 Navi Mumbai, India 🇮🇳
+    📍 Bengaluru, India
   </text>
 </svg>
 
-<!-- Glassmorphism Profile Card -->
-<div style="
-  margin-top: -60px;
-  padding: 25px 35px;
-  backdrop-filter: blur(20px) saturate(180%);
-  -webkit-backdrop-filter: blur(20px) saturate(180%);
-  background: rgba(45, 27, 105, 0.15);
-  border: 1.5px solid rgba(255, 255, 255, 0.2);
-  border-radius: 24px;
-  color: #F0F0F0;
-  max-width: 700px;
-  box-shadow: 0 8px 32px rgba(45, 27, 105, 0.4);
-  transform: translateY(0);
-  transition: transform 0.3s ease;
-">
-  <h3 style="margin: 0 0 15px 0; color: #FFFFFF; font-size: 24px; text-align: center;">
-    🚀 Building the Future with Autonomous Systems
-  </h3>
-  <p style="margin: 0; text-align: center; line-height: 1.6; font-size: 16px; color: #D0D0E0;">
-    Passionate about <strong style="color: #A663CC;">Computer Vision</strong>, 
-    <strong style="color: #7209B7;">Machine Learning</strong>, and 
-    <strong style="color: #2D1B69;">Robotics Integration</strong> • 
-    Creating intelligent systems that bridge hardware and software
-  </p>
-</div>
-
-<!-- Bouncy Social Links -->
-<p align="center" style="margin-top: 30px;">
-  <a href="https://www.linkedin.com/in/anish-vyapari-8a8089258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-         style="margin: 8px; transform: scale(1); transition: transform 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.1) rotate(-2deg)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+<!-- Animated Social Links with Glassmorphism -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-vyapari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A663CC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D1B69" alt="LinkedIn" />
   </a>
-  <a href="mailto:anishvyaparionline@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         style="margin: 8px; transform: scale(1); transition: transform 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.1) rotate(2deg)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+  <a href="https://github.com/AnishVyapari" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-7209B7?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/anish_vyapari/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-         style="margin: 8px; transform: scale(1); transition: transform 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.1) rotate(-2deg)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
+  <a href="mailto:anishvyapari@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-A663CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D1B69" alt="Email" />
   </a>
 </p>
 
 <!-- Animated Stats -->
-<p align="center" style="margin-top: 25px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&icon_color=7209B7&border_color=2D1B69&border_radius=15" 
-       style="margin: 10px; transition: transform 0.3s ease;" 
-       onmouseover="this.style.transform='scale(1.05)'" 
-       onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=tokyonight&background=0A0A0F&ring=A663CC&fire=7209B7&currStreakLabel=F0F0F0&border=2D1B69" 
-       style="margin: 10px; transition: transform 0.3s ease;" 
-       onmouseover="this.style.transform='scale(1.05)'" 
-       onmouseout="this.style.transform='scale(1)'"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnishVyapari&label=Profile%20Views&color=7209B7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AnishVyapari?label=Followers&style=for-the-badge&color=A663CC&labelColor=2D1B69" alt="GitHub Followers" />
 </p>
 
 </div>
 
 ---
 
-## 🤖 About Me
+<!-- GitHub Contribution Snake Animation with Deep-Space Purple Theme -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnishVyapari/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%; filter: drop-shadow(0 0 20px rgba(166, 99, 204, 0.5));">
+  </picture>
+</div>
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF"/>
+<br/>
 
-I'm a **Computer Science Engineering (AI & ML)** student at **RAIT**, passionate about creating intelligent autonomous systems. My focus lies in the intersection of **robotics**, **computer vision**, and **machine learning**.
+---
 
-- 🚁 **Autonomous UAVs**: Vision-based navigation & inspection systems
-- 🤖 **Robotics**: Perception, control, and intelligent automation  
-- 🧠 **Deep Learning**: Real-world applications in computer vision
+## 🚀 About Me
+
+Passionate **Robotics Engineer** and **AI/ML Developer** specializing in autonomous systems and intelligent drone technology. I bridge the gap between theoretical AI and real-world robotic applications, creating solutions that push the boundaries of what's possible.
+
+### 🎯 Core Expertise
+- 🤖 **Autonomous Systems**: Path planning, SLAM, and navigation for mobile robots
+- 🧠 **Machine Learning**: Computer vision, deep learning, and reinforcement learning
+- 🛸 **Drone Technology**: Flight control, mission planning, and swarm coordination
 - 🔧 **Edge Computing**: Hardware-software integration for embedded AI
 - 📡 **IoT Systems**: Connected devices and sensor networks
 
@@ -176,11 +147,17 @@ I'm a **Computer Science Engineering (AI & ML)** student at **RAIT**, passionate
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&border_color=2D1B69&border_radius=15" alt="Top Languages" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&border_color=2D1B69&border_radius=15" 
+  alt="Top Languages" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVyapari&bg_color=0A0A0F&color=F0F0F0&line=A663CC&point=7209B7&area=true&hide_border=true" alt="Activity Graph" />
+  <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVyapari&bg_color=0A0A0F&color=F0F0F0&line=A663CC&point=7209B7&area=true&hide_border=true" 
+  alt="Activity Graph" 
+  />
 </div>
 
 ---
