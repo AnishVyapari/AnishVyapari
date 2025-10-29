@@ -1,9 +1,15 @@
 name: Generate Snake Animation
 
+# Controls when the action will run
 on:
+  # Run automatically every 12 hours
   schedule:
-    - cron: "0 0 * * *" # Runs at midnight UTC every day
+    - cron: "0 */12 * * *"
+  
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  
+  # Run on every push to main branch
   push:
     branches:
       - main
@@ -17,19 +23,22 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
-        
+      
+      # Generate the snake animation with deep-space purple theme
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: AnishVyapari
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A663CC&color_dots=#0A0A0F,#2D1B69,#7209B7,#A663CC,#B084CC
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#7209B7&color_dots=#F0F0F0,#D1B3E8,#A663CC,#7209B7,#2D1B69
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      # Push the generated files to the output branch
       - name: Push github-contribution-grid-snake.svg to the output branch
         run: |
           git config user.name "GitHub Action"
@@ -38,5 +47,5 @@ jobs:
           git rm -rf .
           cp -r dist/* .
           git add -A
-          git commit -m "Update snake animation" || echo "No changes to commit"
+          git commit -m "Update snake animation with deep-space purple theme" || echo "No changes to commit"
           git push -f origin output
