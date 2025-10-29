@@ -57,11 +57,10 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6e40c9&color=a663cc)](https://linkedin.com/in/anish-vyapari)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=6e40c9&color=a663cc)](https://twitter.com/anishvyapari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6e40c9&color=a663cc)](https://anishvyapari.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6e40c9&color=a663cc)](mailto:anish@example.com)
-[![Research](https://img.shields.io/badge/Research-%23FF6B6B.svg?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=6e40c9&color=a663cc)](https://scholar.google.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=6e40c9&color=a663cc)](https://www.youtube.com/@HyperSKED)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=6e40c9&color=a663cc)](https://www.instagram.com/anish_vyapari/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=6e40c9&color=a663cc)](https://discord.gg/dzsKgWMgjJ)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6e40c9&color=a663cc)](https://guns.lol/shaboings)
 
 </div>
 
@@ -77,37 +76,37 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white&labelColor=2D1B69&color=A663CC)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&labelColor=2D1B69&color=A663CC)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=2D1B69&color=A663CC)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=2D1B69&color=A663CC)
 
 ### 🤖 Robotics & Embedded Systems
 
-![ROS](https://img.shields.io/badge/ROS-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white&labelColor=2D1B69&color=A663CC)
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white&labelColor=2D1B69&color=A663CC)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=2D1B69&color=A663CC)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=2D1B69&color=A663CC)
-![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6600.svg?style=for-the-badge&labelColor=2D1B69&color=A663CC)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=2D1B69&color=A663CC)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6D00.svg?style=for-the-badge&logo=gazebo&logoColor=white&labelColor=2D1B69&color=A663CC)
 
-### 💻 Programming & Development
+### 💻 Development & Tools
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2D1B69&color=A663CC)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black&labelColor=2D1B69&color=A663CC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2D1B69&color=A663CC)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2D1B69&color=A663CC)
-![CUDA](https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=2D1B69&color=A663CC)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2D1B69&color=A663CC)
-
-### 🔧 DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2D1B69&color=A663CC)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=2D1B69&color=A663CC)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=2D1B69&color=A663CC)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=2D1B69&color=A663CC)
+
+### ☁️ Cloud & MLOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=2D1B69&color=A663CC)
 ![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=2D1B69&color=A663CC)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2D1B69&color=A663CC)
 
 </div>
 
@@ -117,10 +116,16 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&icon_color=A663CC&border_color=2D1B69&border_radius=15&hide_border=false" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&border_color=2D1B69&border_radius=15&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a663cc&text_color=c9d1d9&icon_color=a663cc&border_color=6e40c9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&langs_count=8&theme=midnight-purple&bg_color=0d1117&title_color=a663cc&text_color=c9d1d9&border_color=6e40c9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=tokyonight&background=0A0A0F&ring=A663CC&fire=A663CC&currStreakLabel=A663CC&sideNums=F0F0F0&sideLabels=F0F0F0&dates=F0F0F0&border=2D1B69&stroke=2D1B69" alt="GitHub Streak" width="100%" style="max-width: 600px;"/>
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AnishVyapari&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A)
 
 </div>
 
@@ -128,14 +133,9 @@
 
 <div align="center">
 
-## 🏆 Featured Projects
+## 📈 Contribution Graph
 
-<a href="https://github.com/AnishVyapari">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnishVyapari&repo=neural-style-transfer&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&icon_color=A663CC&border_color=2D1B69&border_radius=15" />
-</a>
-<a href="https://github.com/AnishVyapari">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnishVyapari&repo=autonomous-robot&theme=tokyonight&bg_color=0A0A0F&title_color=A663CC&text_color=F0F0F0&icon_color=A663CC&border_color=2D1B69&border_radius=15" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishVyapari&theme=react-dark&bg_color=0d1117&color=a663cc&line=6e40c9&point=a663cc&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -143,17 +143,9 @@
 
 <div align="center">
 
-## 🎓 Continuous Learning
+## 💭 Random Dev Quote
 
-![](https://img.shields.io/badge/Focus-Deep%20Learning-A663CC?style=for-the-badge&labelColor=2D1B69)
-![](https://img.shields.io/badge/Research-Computer%20Vision-A663CC?style=for-the-badge&labelColor=2D1B69)
-![](https://img.shields.io/badge/Innovation-Autonomous%20Systems-A663CC?style=for-the-badge&labelColor=2D1B69)
-
-### 📚 Currently Exploring:
-- 🔬 Multimodal Large Language Models
-- 🎯 Reinforcement Learning for Robotics
-- 🌐 Edge AI Optimization
-- 🔮 Generative AI Applications
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
 
 </div>
 
@@ -161,10 +153,8 @@
 
 <div align="center">
 
-### 💡 "The best way to predict the future is to invent it." - Alan Kay
+### 🌟 "The only way to do great work is to love what you do" - Steve Jobs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,12,18&height=120&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnishVyapari&color=A663CC&style=for-the-badge&labelColor=2D1B69)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,6,12,18&height=100&section=footer" width="100%"/>
 
 </div>
