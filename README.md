@@ -1,163 +1,110 @@
+<!-- Glassmorphism Banner with Animated SVG Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Anish%20Vyapari&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+        <stop offset="0%" stop-color="#7F5AF0"/>
+        <stop offset="50%" stop-color="#2CB67D"/>
+        <stop offset="100%" stop-color="#00C2FF"/>
+      </linearGradient>
+      <filter id="blur"><feGaussianBlur stdDeviation="60"/></filter>
+    </defs>
+    <rect width="1200" height="220" fill="#0f1226"/>
+    <g filter="url(#blur)" opacity="0.55">
+      <circle r="180" cx="200" cy="40" fill="url(#g)">
+        <animate attributeName="cx" values="200;1000;200" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="40;180;40" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="140" cx="1000" cy="180" fill="url(#g)" opacity="0.7">
+        <animate attributeName="cx" values="1000;260;1000" dur="18s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="180;60;180" dur="12s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" fill="#EAEAEA" font-size="42" font-family="Segoe UI, Roboto, Ubuntu, sans-serif" style="letter-spacing:0.5px">Hi, I'm Anish Vyapari</text>
+    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="#A0A8BD" font-size="18" font-family="Segoe UI, Roboto, Ubuntu, sans-serif">Robotics, Drones, and AI Systems • Navi Mumbai, India 🇮🇳</text>
+  </svg>
+  <div style="
+    margin-top:-80px;
+    padding:18px 28px;
+    backdrop-filter: blur(14px) saturate(140%);
+    -webkit-backdrop-filter: blur(14px) saturate(140%);
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.18);
+    border-radius: 18px;
+    color:#EDEDED; max-width:820px">
+    <strong>Building autonomous systems at the edge</strong> — computer vision, control, and ML powering drones and robots.
+  </div>
 </div>
 
-<h3 align="center">🤖 Robotics & AI Systems Developer | 🎓 B.Tech CSE (AI & ML) @ RAIT Nerul</h3>
-
-<p align="center">📍 Navi Mumbai, India 🇮🇳</p>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-vyapari-8a8089258/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anish_vyapari/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishvyaparionline@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anish-vyapari-8a8089258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anishvyaparionline@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/anish_vyapari/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About
+I'm a CSE (AI & ML) student at RAIT, focused on robotics, autonomous drones, and applied AI. I love shipping practical systems that blend hardware with intelligent software.
 
-> **Passionate about building intelligent systems that bridge the gap between software and hardware**
-
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at Ramrao Adik Institute of Technology. My work focuses on:
-
-- 🚁 **Autonomous Drone Systems** - Building intelligent UAVs for surveillance and automation
-- 🤖 **Robotics & Computer Vision** - Creating vision-guided robotic systems
-- 🧠 **AI/ML Applications** - Implementing deep learning solutions for real-world problems
-- 🔧 **Hardware Integration** - Bridging software intelligence with physical systems
+- 🚁 Autonomous UAVs for vision-based navigation and inspection
+- 🤖 Robotics + CV for perception and control
+- 🧠 Deep learning for real-world tasks
+- 🔧 Hardware-software integration at the edge
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Robotics & Embedded Systems
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Web & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!-- Bouncy loader under Tech Stack -->
+<div style="display:flex; gap:10px; justify-content:center; align-items:flex-end; height:36px; margin-bottom:14px;">
+  <div style="width:8px; height:8px; background:#7F5AF0; border-radius:6px; animation:bounce 0.9s ease-in-out infinite"></div>
+  <div style="width:8px; height:8px; background:#2CB67D; border-radius:6px; animation:bounce 0.9s ease-in-out 0.15s infinite"></div>
+  <div style="width:8px; height:8px; background:#00C2FF; border-radius:6px; animation:bounce 0.9s ease-in-out 0.3s infinite"></div>
+  <div style="width:8px; height:8px; background:#FFB86B; border-radius:6px; animation:bounce 0.9s ease-in-out 0.45s infinite"></div>
 </div>
 
----
+<!-- inline CSS keyframes note: works in GitHub markdown via style tag inside svg or HTML -->
+<style>
+@keyframes bounce { 0%,100%{ transform: translateY(0)} 50%{ transform: translateY(-10px)} }
+</style>
 
-## 🚀 Featured Projects
-
-### 🚁 Autonomous Surveillance Drone
-
-> **Next-gen UAV with real-time object detection and autonomous navigation**
-
-- 🎯 YOLOv8-powered real-time object detection
-- 🧭 GPS-based autonomous waypoint navigation
-- 📡 Live video streaming with telemetry data
-- 🛡️ Obstacle avoidance using depth sensing
-
-**Tech Stack:** Python, OpenCV, TensorFlow, DroneKit, MAVLink
-
----
-
-### 🤖 Vision-Guided Robotic Arm
-
-> **Industrial-grade robotic arm with AI-powered vision system**
-
-- 👁️ Computer vision for object recognition and localization
-- 🎮 Inverse kinematics for precise movement control
-- 🔄 Real-time path planning and collision avoidance
-- 📊 Integration with ROS for system control
-
-**Tech Stack:** Python, ROS, OpenCV, PyTorch, Arduino
-
----
-
-### 🌾 Smart Agricultural Drone System
-
-> **IoT-based crop health monitoring with drone surveillance**
-
-- 🛰️ Aerial imagery capture and analysis
-- 🌡️ Real-time environmental sensor monitoring
-- 📊 ML-based crop disease detection
-- 📱 Mobile dashboard for farmers
-
-**Tech Stack:** Python, Flask, React, OpenCV, IoT Sensors, DroneKit
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnishVyapari&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishVyapari&layout=compact&langs_count=8&theme=radical" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnishVyapari&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🥇 **Winner** - hackathon 2024
-- 🎓 **GPA: 7+** - Consistent academic excellence
-- 🚁 **Built 5+ Drone Systems** - From FPV racing to autonomous surveillance
-- 🤖 **10+ Robotics Projects** - Spanning automation, vision, and AI
-- 💡 **Active Contributor** - Open-source robotics and AI projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnishVyapari/AnishVyapari/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-## 📫 Let's Connect!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnishVyapari&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
-<div align="center">
-
-**Open to collaborations in Robotics, Drones, Computer Vision, and AI!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-vyapari-8a8089258/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:anishvyaparionline@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/anish_vyapari/)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</div>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AnishVyapari&color=blueviolet&style=flat-square&label=Profile+Views)
-  
-</div>
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</p>
